@@ -1,6 +1,6 @@
 # Proyecto de clustering para mejorar la experiencia de los afiliados a una EPS en Colombia
 
-Este repositorio contiene el desarrollo, documentación y datos de una aplicación del aprendizaje supervisado para la segmentación de afiliados de una Entidad Promotora de Salud (EPS) en Colombia. El objetivo es caracterizar cada cluster para proponer estratégias que mejoren la experiencia de los afiliados, a eficiencia de la EPS y por lo tanto aumente la retención de los mismos. ** (NO ha sido cargada por limitaciones de almacenamiento) **
+Este repositorio contiene el desarrollo, documentación y datos de una aplicación del aprendizaje no supervisado para la segmentación de afiliados de una Entidad Promotora de Salud (EPS) en Colombia. El objetivo es caracterizar cada cluster para proponer estratégias que mejoren la experiencia de los afiliados, a eficiencia de la EPS y por lo tanto aumente la retención de los mismos. ** (NO ha sido cargada por limitaciones de almacenamiento) **
 
 
 ## Navegación:
